@@ -1,0 +1,23 @@
+## Interface: 40300
+## Title: Dugi Contest
+## Notes: Copyright 2010-2011 UltimateWoWGuide.com
+## Version: 1
+## X-Website: http://www.ultimatewowguide.com/
+## X-Email: webmaster@ultimatewowguide.com
+## X-CompatibleLocales: enUS, enGB, deDE, frFR, esES, esMX, koKR, ruRU
+
+# Library Files
+Libs\Load.xml
+
+# Localization
+Localization\Localization.enUS.lua
+Localization\Localization.esMX.lua
+Localization\Localization.deDE.lua
+Localization\Localization.frFR.lua
+Localization\Localization.koKR.lua
+Localization\Localization.ptBR.lua
+Localization\Localization.ruRU.lua
+
+# Base
+DugiContest.lua
+Debug.lua
